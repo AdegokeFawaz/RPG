@@ -1,4 +1,4 @@
-#Name: tFawaz#
+#Name: Fawaz
 #Class: CS30
 #Topic: RPG Pseodocode
 #Date Modified: March 1, 2020
